@@ -4,7 +4,7 @@ This Solidity project involves creating a contract in the Remix environment. The
 ## Getting Started
 
 ### Setup/Pre-conditions
-There are no installations required to execute this program. It is ideal to use Remix for this project. Navigate to the Remix website at: https://remix.ethereum.org/.
+There are no installations required to execute this program, you only need a web browser. It is ideal to use Remix. Navigate to the Remix website at: https://remix.ethereum.org/.
 
 ### Executing program
 1. In the Remix website, create a new file by clicking on the "+" icon in the sidebar.

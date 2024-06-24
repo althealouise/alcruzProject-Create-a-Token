@@ -11,7 +11,6 @@ There are no installations required to execute this program, you only need a web
 2. Name the file anyway you want, just make sure you use ```.sol``` file extension.
 3. Copy and paste the code from ```alcruzToken.sol``` in this repository, or from the code below.
 ```Solidity
-// SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
 /*
